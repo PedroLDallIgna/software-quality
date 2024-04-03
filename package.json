@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "node .",
-    "test:unit": "jest"
+    "test:unit": "jest",
+    "test:unit:verbose": "jest --verbose"
   },
   "author": "",
   "license": "MIT",
